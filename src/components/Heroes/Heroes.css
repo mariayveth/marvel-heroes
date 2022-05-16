@@ -1,0 +1,18 @@
+.btn-primary {
+    background-color: #518cca!important;
+    border-color: #518cca!important;
+  }
+  
+  .btn-primary:hover {
+    background-color: #bd6624!important;
+    border-color: #bd6624!important;
+  }
+
+  .heroes__navbar{
+    background-color: #ffffff;
+    
+  }
+  .text-user{
+    color: #e23636;
+  }
+  

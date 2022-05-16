@@ -1,0 +1,7 @@
+.text-more-comics:hover{
+    color: #e23636!important;
+    cursor: pointer;
+}
+.li-comics{
+    list-style: none;
+}

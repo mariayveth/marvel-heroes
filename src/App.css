@@ -1,0 +1,8 @@
+
+.img-darken {
+  filter: brightness(0.5);
+}
+.heroes__card {
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
